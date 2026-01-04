@@ -4,7 +4,6 @@ export default function Dashboard() {
   const stats = [
     { label: "Total Products", value: "---", link: "/products", icon: "📦" },
     { label: "Categories", value: "---", link: "/categories", icon: "📂" },
-    { label: "Reviews", value: "---", link: "/reviews", icon: "⭐" },
     { label: "Hero Slides", value: "---", link: "/hero-slides", icon: "🖼️" },
   ]
 

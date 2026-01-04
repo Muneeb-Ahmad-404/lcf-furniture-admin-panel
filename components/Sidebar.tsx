@@ -44,7 +44,6 @@ export default function Sidebar() {
     { label: "Dashboard", href: "/", icon: "🏠" },
     { label: "Products", href: "/products", icon: "📦" },
     { label: "Categories", href: "/categories", icon: "📂" },
-    { label: "Reviews", href: "/reviews", icon: "⭐" },
     { label: "Hero Slides", href: "/hero-slides", icon: "🖼️" },
     { label: "Page Content", href: "/page-content", icon: "📄" },
     { label: "Contact Messages", href: "/contacts", icon: "✉️" },
